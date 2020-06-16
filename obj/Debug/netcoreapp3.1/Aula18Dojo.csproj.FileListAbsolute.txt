@@ -1,0 +1,13 @@
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.exe
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.deps.json
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.dll
+C:\Users\dejai_000\Desktop\Aula18Dojo\bin\Debug\netcoreapp3.1\Aula18Dojo.pdb
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.dll
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.pdb
+C:\Users\dejai_000\Desktop\Aula18Dojo\obj\Debug\netcoreapp3.1\Aula18Dojo.genruntimeconfig.cache
